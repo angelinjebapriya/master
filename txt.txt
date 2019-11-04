@@ -1,2 +1,6 @@
 hiiiii
-vbvcbvcb
+bit-bucket is version control system
+git init
+git add*
+git add filename
+git remote add origin
